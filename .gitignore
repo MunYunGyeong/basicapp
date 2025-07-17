@@ -1,5 +1,5 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-# .env 파일이 서버에 업로드 되지 않도록 설정 함
+# .env 파일이 git서버에 업로드 되지 않도록 설정 함
 # dependencies
 /node_modules
 /.pnp
